@@ -1,5 +1,5 @@
 {
-  "name": "moovel-properium",
+  "name": "properium",
   "version": "0.1.3",
   "description": "Define properties and their validations to create your model classes.",
   "main": "lib/index.js",
